@@ -35,6 +35,8 @@ import java.util.concurrent.TimeUnit;
  * shown. On devices with low-bit ambient mode, the hands are drawn without anti-aliasing in ambient
  * mode. The watch face is drawn with less contrast in mute mode.
  * <p>
+ *
+ *     
  * Important Note: Because watch face apps do not have a default Activity in
  * their project, you will need to set your Configurations to
  * "Do not launch Activity" for both the Wear and/or Application modules. If you
